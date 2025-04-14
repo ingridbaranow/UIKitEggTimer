@@ -1,4 +1,4 @@
-![Demo of the app](Assets.xcassets/EggTimerGifGitHub.gif)
+![App Demo](APP%20Gif/EggTimerGifGitHub.gif)
 
 # Egg Timer
 
